@@ -10,3 +10,4 @@ The following buttons can be hidden:
 - Bookmarks button
 - History button
 - Preference button
+- Sidepanel button
