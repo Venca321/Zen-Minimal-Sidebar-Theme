@@ -34,6 +34,12 @@
   }
 }
 
+@media (-moz-bool-pref: "uc.minimal-sidebar.hide-sidepanel-button.enabled") {
+  #zen-sidepanel-button {
+    display: none !important;
+  }
+}
+
 @media (-moz-bool-pref: "uc.minimal-sidebar.compact-spacing.enabled") {
   #zen-sidebar-icons-wrapper {
     padding-top: 0px !important;
