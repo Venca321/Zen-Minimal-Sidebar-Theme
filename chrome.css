@@ -45,3 +45,9 @@
     padding-top: 0px !important;
   }
 }
+
+@media (-moz-bool-pref: "uc.minimal-sidebar.hide-sidebar.enabled") {
+  #zen-sidebar-icons-wrapper {
+    display: none !important;
+  }
+}
