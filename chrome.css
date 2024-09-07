@@ -51,3 +51,10 @@
     display: none !important;
   }
 }
+
+@media (-moz-bool-pref: "uc.minimal-sidebar.fix-sidebar-width.enabled") {
+  #TabsToolbar-customization-target {
+    height: 100%;
+    min-width: var(--zen-sidebar-action-button-width);
+  }
+}
