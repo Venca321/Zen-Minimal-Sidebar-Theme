@@ -7,7 +7,6 @@ The following buttons can be hidden:
 - All tabs button
 - New tab button
 - Profile button
-- Expand sidebar button
 - Bookmarks button
 - History button
 - Preference button
