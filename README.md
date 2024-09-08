@@ -12,3 +12,4 @@ The following buttons can be hidden:
 - History button
 - Preference button
 - Sidepanel button
+- Expand sidebar button (outdated - can be removed in the Look and Feel settings)
