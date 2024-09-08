@@ -1,4 +1,4 @@
-# Zen-Minimal-Sidebar-Theme
+# Zen Minimal Sidebar Theme
 
 With this theme, you can hide the buttons in the sidebar and make it minimalistic.
 
